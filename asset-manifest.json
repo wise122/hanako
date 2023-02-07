@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2759498b.css",
+    "main.js": "/static/js/main.e41a4f53.js",
+    "static/media/banner-animation.gif": "/static/media/banner-animation.18919bd1edf52d3c6926.gif",
+    "static/media/4.jpeg": "/static/media/4.dba761f1772d713d7192.jpeg",
+    "static/media/2.jpeg": "/static/media/2.84ef39512a2558e99ac7.jpeg",
+    "static/media/bayc-mutant-hero.jpg": "/static/media/bayc-mutant-hero.9576c73d2f270ff2a51b.jpg",
+    "static/media/1.jpeg": "/static/media/1.a22de0cb931fe4886296.jpeg",
+    "static/media/3.jpeg": "/static/media/3.b644f712d9b6da545b73.jpeg",
+    "static/media/shirt.webp": "/static/media/shirt.560d112571f1b454b438.webp",
+    "index.html": "/index.html",
+    "main.2759498b.css.map": "/static/css/main.2759498b.css.map",
+    "main.e41a4f53.js.map": "/static/js/main.e41a4f53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2759498b.css",
+    "static/js/main.e41a4f53.js"
+  ]
+}
